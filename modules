@@ -4,11 +4,11 @@
 # In most cases, it is not required so don't add it.
 
 GLUON_SITE_FEEDS="wgkw fileskw"
-PACKAGES_FILESKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-mesh-vpn-wireguard.git
-PACKAGES_FILESKW_COMMIT=7494262a42b328253caf977253008d49a77f98ef
-PACKAGES_FILESKW_BRANCH=master
+PACKAGES_WGKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-mesh-vpn-wireguard.git
+PACKAGES_WGKW_COMMIT=b294decbcc2434b0025a6833fcb7d78994fa1f1e
+PACKAGES_WGKW_BRANCH=master
 
 PACKAGES_FILESKW_REPO=https://github.com/johnnybee/gluon-ffkbu-files.git
-PACKAGES_FILESKW_COMMIT=9bef4aa8c688a27392e87bb8f1b03db820489032
+PACKAGES_FILESKW_COMMIT=7494262a42b328253caf977253008d49a77f98ef
 PACKAGES_FILESKW_BRANCH=master
 
