@@ -1,0 +1,14 @@
+# This file allows specifying additional repositories to use
+# when building gluon.
+#
+# In most cases, it is not required so don't add it.
+
+GLUON_SITE_FEEDS="wgkbu fileskbu"
+PACKAGES_WGKBU_REPO=https://github.com/johnnybee/gluon-mesh-vpn-wireguard.git
+PACKAGES_WGKBU_COMMIT=f709d9260cf827bb01257803e1d369e727c119aa
+PACKAGES_WGKBU_BRANCH=master
+
+PACKAGES_FILESKBU_REPO=https://github.com/johnnybee/gluon-ffkbu-files.git
+PACKAGES_FILESKBU_COMMIT=9bef4aa8c688a27392e87bb8f1b03db820489032
+PACKAGES_FILESKBU_BRANCH=master
+
