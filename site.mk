@@ -26,7 +26,7 @@ GLUON_SITE_PACKAGES := \
         haveged \
         iptables \
         iwinfo \
-        gluon-ffkbu-files \
+        gluon-ffkw-files \
         gluon-mesh-vpn-wireguard
         
 GLUON_DEPRECATED=full
