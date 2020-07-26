@@ -5,7 +5,7 @@
 
 GLUON_SITE_FEEDS="wgkw fileskw"
 PACKAGES_WGKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-mesh-vpn-wireguard.git
-PACKAGES_WGKW_COMMIT=242db55cb43310e5a63c20e5050c76c4abd1adff
+PACKAGES_WGKW_COMMIT=706552411a3b0b862f2705959d7bf240c79b9254
 PACKAGES_WGKW_BRANCH=master
 
 PACKAGES_FILESKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-ffkw-files.git
