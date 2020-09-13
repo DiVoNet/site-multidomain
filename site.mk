@@ -20,8 +20,7 @@ GLUON_FEATURES := \
         web-advanced \
         web-private-wifi \
         web-wizard \
-				config-mode-domain-select \
-				tcpdump
+				config-mode-domain-select
 
 GLUON_SITE_PACKAGES := \
         haveged \
@@ -29,7 +28,7 @@ GLUON_SITE_PACKAGES := \
         iwinfo \
         gluon-ffkw-files \
         gluon-mesh-vpn-wireguard
-#				gluon-tcpdump
+				gluon-tcpdump
 
 GLUON_DEPRECATED=full
 GLUON_MULTIDOMAIN=1
