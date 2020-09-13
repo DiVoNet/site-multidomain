@@ -27,7 +27,7 @@ GLUON_SITE_PACKAGES := \
         iptables \
         iwinfo \
         gluon-ffkw-files \
-        gluon-mesh-vpn-wireguard
+        gluon-mesh-vpn-wireguard \
 				gluon-tcpdump
 
 GLUON_DEPRECATED=full
