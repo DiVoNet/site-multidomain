@@ -28,7 +28,7 @@ GLUON_SITE_PACKAGES := \
         iwinfo \
         gluon-ffkw-files \
         gluon-mesh-vpn-wireguard \
-				gluon-tcpdump
+				tcpdump
 
 GLUON_DEPRECATED=full
 GLUON_MULTIDOMAIN=1
