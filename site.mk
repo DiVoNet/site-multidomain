@@ -20,15 +20,16 @@ GLUON_FEATURES := \
         web-advanced \
         web-private-wifi \
         web-wizard \
-	config-mode-domain-select
+				config-mode-domain-select \
+				tcpdump
 
 GLUON_SITE_PACKAGES := \
         haveged \
         iptables \
         iwinfo \
         gluon-ffkw-files \
-        gluon-mesh-vpn-wireguard \
-				gluon-tcpdump
+        gluon-mesh-vpn-wireguard
+#				gluon-tcpdump
 
 GLUON_DEPRECATED=full
 GLUON_MULTIDOMAIN=1
