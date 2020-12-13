@@ -4,13 +4,6 @@
 # In most cases, it is not required so don't add it.
 
 GLUON_SITE_FEEDS="ffkw"
-#PACKAGES_WGKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-mesh-vpn-wireguard.git
-#PACKAGES_WGKW_COMMIT=706552411a3b0b862f2705959d7bf240c79b9254
-#PACKAGES_WGKW_BRANCH=master
-
-#PACKAGES_FILESKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-ffkw-files.git
-#PACKAGES_FILESKW_COMMIT=d133aae1e81d3c90d90030ac22d077aadad99c07
-#PACKAGES_FILESKW_BRANCH=master
 
 PACKAGES_FFKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-ffkw-packages.git
 PACKAGES_FFKW_COMMIT=e07089b1ed1100356ded0dbee28f767680addd2b
