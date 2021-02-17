@@ -15,8 +15,10 @@ GLUON_FEATURES := \
         ebtables-filter-ra-dhcp \
         ebtables-limit-arp \
         mesh-batman-adv-15 \
+	wan-dnsmasq \
         respondd \
         status-page \
+	status-page-mesh-batman-adv \
         web-advanced \
         web-private-wifi \
         web-wizard \
