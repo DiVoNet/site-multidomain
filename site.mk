@@ -15,14 +15,14 @@ GLUON_FEATURES := \
         ebtables-filter-ra-dhcp \
         ebtables-limit-arp \
         mesh-batman-adv-15 \
-	wan-dnsmasq \
+        wan-dnsmasq \
         respondd \
         status-page \
-	status-page-mesh-batman-adv \
+        status-page-mesh-batman-adv \
         web-advanced \
         web-private-wifi \
         web-wizard \
-	config-mode-domain-select
+        config-mode-domain-select
 
 GLUON_SITE_PACKAGES := \
         haveged \
