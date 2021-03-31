@@ -18,7 +18,7 @@ msgstr ""
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
-"Dies ist der öffentliche Schlüssel deines Freifunk-Knotens." 
+"Dies ist der öffentliche Wireguard Schlüssel deines Freifunk-Node."
 ""
 
 msgid "gluon-config-mode:reboot"
@@ -43,3 +43,5 @@ msgstr ""
 "die universelle SSID „Freifunk.DiVoNet.de“ ausstrahlen. "
 "Melde Dich bei uns, wenn Du eine eigene SSID für Deine Stadt haben möchtest."
 
+msgid "gluon-config-mode:domain"
+msgstr "Region"

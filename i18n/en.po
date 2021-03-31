@@ -17,10 +17,7 @@ msgstr ""
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
-"This is your Freifunk node's public key."
-""
-""
-
+"This is your Freifunk node's wireguard public key."
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
@@ -34,3 +31,14 @@ msgstr ""
 "<p>Have fun with your node and exploring the Freifunk network!</p>"
 "<p>And remember: there is more to networking than only the internet.</p>"
 "<p>Be excellent to each other.</p>"
+
+msgid "gluon-config-mode:domain-select"
+msgstr ""
+"Here you can select in which area your node is operated. "
+"This decides the SSID of your WLAN. If your region is not yet "
+" is listed, select \"Freifunk DiVoNet\". Your node will then "
+" use the universal SSID \"Freifunk.DiVoNet.de\". "
+"Contact us if you want to have a custom SSID for your city."
+
+msgid "gluon-config-mode:domain"
+msgstr "Region"
