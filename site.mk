@@ -22,7 +22,8 @@ GLUON_FEATURES := \
         web-advanced \
         web-private-wifi \
         web-wizard \
-        config-mode-domain-select
+        config-mode-domain-select \
+	wireless-encryption-wpa3
 
 GLUON_SITE_PACKAGES := \
         haveged \
