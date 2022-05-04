@@ -1,0 +1,10 @@
+# This file allows specifying additional repositories to use
+# when building gluon.
+#
+# In most cases, it is not required so don't add it.
+
+GLUON_SITE_FEEDS="divonet"
+
+PACKAGES_DIVONET_REPO=https://github.com/divonet/gluon-packages.git
+PACKAGES_DIVONET_COMMIT=c9bb0102a55761d2acfad15605ff7a4ffaa189d1
+PACKAGES_DIVONET_BRANCH=master
