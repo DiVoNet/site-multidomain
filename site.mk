@@ -23,7 +23,7 @@ GLUON_FEATURES := \
         web-private-wifi \
         web-wizard \
         config-mode-domain-select \
-	wireless-encryption-wpa3
+        wireless-encryption-wpa3
 
 GLUON_SITE_PACKAGES := \
         haveged \
@@ -31,7 +31,7 @@ GLUON_SITE_PACKAGES := \
         iwinfo \
         gluon-divonet-files \
         gluon-mesh-vpn-wireguard \
-	tcpdump
+        tcpdump
 
 GLUON_DEPRECATED=full
 GLUON_MULTIDOMAIN=1
