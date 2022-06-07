@@ -30,7 +30,6 @@ GLUON_SITE_PACKAGES := \
         haveged \
         iptables \
         iwinfo \
-        iw-full \
         gluon-divonet-files \
         gluon-mesh-vpn-wireguard \
         tcpdump
