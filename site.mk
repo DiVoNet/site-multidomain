@@ -28,10 +28,9 @@ GLUON_FEATURES := \
 
 GLUON_SITE_PACKAGES := \
         haveged \
-        iptables \
         iwinfo \
         gluon-divonet-files \
-        gluon-mesh-vpn-wireguard \
+        gluon-mesh-vpn-wg \
         tcpdump
 
 GLUON_DEPRECATED=full
